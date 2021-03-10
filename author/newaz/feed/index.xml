@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>newaz &#8211; Single page Business Website</title>
+	<title>newaz &#8211; Website Creation</title>
 	<atom:link href="https://mdshanewaz.github.io/WordPress_Proj-8/author/newaz/feed/" rel="self" type="application/rss+xml" />
 	<link>https://mdshanewaz.github.io/WordPress_Proj-8</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Thu, 04 Mar 2021 06:09:32 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Sat, 06 Mar 2021 15:08:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,248 +21,108 @@
 	<generator>https://wordpress.org/?v=5.6.2</generator>
 
 <image>
-	<url>https://mdshanewaz.github.io/WordPress_Proj-8/wp-content/uploads/2021/02/LogoMakr-6xurIF-150x150.png</url>
-	<title>newaz &#8211; Single page Business Website</title>
+	<url>https://mdshanewaz.github.io/WordPress_Proj-8/wp-content/uploads/2021/03/LogoMakr-6xurIF-150x150.png</url>
+	<title>newaz &#8211; Website Creation</title>
 	<link>https://mdshanewaz.github.io/WordPress_Proj-8</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Fifth Post</title>
-		<link>https://mdshanewaz.github.io/WordPress_Proj-8/fifth-post/</link>
-					<comments>https://mdshanewaz.github.io/WordPress_Proj-8/fifth-post/#respond</comments>
+		<title>Marketing</title>
+		<link>https://mdshanewaz.github.io/WordPress_Proj-8/marketing/</link>
+					<comments>https://mdshanewaz.github.io/WordPress_Proj-8/marketing/#respond</comments>
 		
 		<dc:creator><![CDATA[newaz]]></dc:creator>
-		<pubDate>Fri, 26 Feb 2021 11:10:09 +0000</pubDate>
+		<pubDate>Sat, 06 Mar 2021 12:36:56 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj-8/?p=96</guid>
+		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj-8/?p=232</guid>
 
-					<description><![CDATA[’s a new era and a new look for Cork GAA from today as Sports Direct becomes the official sponsor as part of a five-year partnership. The sports fashion retailer’s logo will be seen on men’s senior football and hurling teams as well as the Minor and Under 20 teams in both codes. As part [&#8230;]]]></description>
+					<description><![CDATA[As you can see from the above image, a Data Analyst&#160;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>’s a new era and a new look for Cork GAA from today as Sports Direct becomes the official sponsor as part of a five-year partnership.</p>
-
-
-
-<p>The sports fashion retailer’s logo will be seen on men’s senior football and hurling teams as well as the Minor and Under 20 teams in both codes.</p>
-
-
-
-<p>As part of its partnership with Cork GAA, Sports Direct will be providing the two senior panels with personalized access to its full range of boots.</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="1024" src="https://mdshanewaz.github.io/WordPress_Proj-8/wp-content/uploads/2021/02/Jim-Fahad-Digital-1blog-post-18-1024x1024.jpg" alt="" class="wp-image-81" srcset="https://mdshanewaz.github.io/WordPress_Proj-8/wp-content/uploads/2021/02/Jim-Fahad-Digital-1blog-post-18-1024x1024.jpg 1024w, https://mdshanewaz.github.io/WordPress_Proj-8/wp-content/uploads/2021/02/Jim-Fahad-Digital-1blog-post-18-300x300.jpg 300w, https://mdshanewaz.github.io/WordPress_Proj-8/wp-content/uploads/2021/02/Jim-Fahad-Digital-1blog-post-18-150x150.jpg 150w, https://mdshanewaz.github.io/WordPress_Proj-8/wp-content/uploads/2021/02/Jim-Fahad-Digital-1blog-post-18-768x768.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>Today’s announcement sees the release of the new Cork GAA jersey, designed and manufactured in collaboration with O’Neills.</p>
-
-
-
-<p>The jersey celebrates the three core pillars of clubs, schools, and county that together form the foundation of Cork GAA.</p>
-
-
-
-<p>It’s a new era and a new look for Cork GAA from today as Sports Direct becomes the official sponsor as part of a five-year partnership.</p>
-
-
-
-<p>The sports fashion retailer’s logo will be seen on men’s senior football and hurling teams as well as the Minor and Under 20 teams in both codes.</p>
-
-
-
-<p>As part of its partnership with Cork GAA, Sports Direct will be providing the two senior panels with personalized access to its full range of boots.</p>
-
-
-
-<p>Today’s announcement sees the release of the new Cork GAA jersey, designed and manufactured in collaboration with O’Neills.</p>
-
-
-
-<p>The jersey celebrates the three core pillars of clubs, schools, and county that together form the foundation of Cork GAA</p>
+<p>As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.Tags: No tags</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://mdshanewaz.github.io/WordPress_Proj-8/fifth-post/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mdshanewaz.github.io/WordPress_Proj-8/marketing/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Fourth Post</title>
-		<link>https://mdshanewaz.github.io/WordPress_Proj-8/fourth-post/</link>
-					<comments>https://mdshanewaz.github.io/WordPress_Proj-8/fourth-post/#respond</comments>
+		<title>Photography</title>
+		<link>https://mdshanewaz.github.io/WordPress_Proj-8/photography/</link>
+					<comments>https://mdshanewaz.github.io/WordPress_Proj-8/photography/#respond</comments>
 		
 		<dc:creator><![CDATA[newaz]]></dc:creator>
-		<pubDate>Tue, 26 Jan 2021 11:09:18 +0000</pubDate>
+		<pubDate>Sat, 06 Mar 2021 07:11:41 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj-8/?p=94</guid>
+		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj-8/?p=58</guid>
 
-					<description><![CDATA[’s a new era and a new look for Cork GAA from today as Sports Direct becomes the official sponsor as part of a five-year partnership. The sports fashion retailer’s logo will be seen on men’s senior football and hurling teams as well as the Minor and Under 20 teams in both codes. As part [&#8230;]]]></description>
+					<description><![CDATA[As you can see from the above image, a Data Analyst&#160;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>’s a new era and a new look for Cork GAA from today as Sports Direct becomes the official sponsor as part of a five-year partnership.</p>
-
-
-
-<p>The sports fashion retailer’s logo will be seen on men’s senior football and hurling teams as well as the Minor and Under 20 teams in both codes.</p>
-
-
-
-<p>As part of its partnership with Cork GAA, Sports Direct will be providing the two senior panels with personalized access to its full range of boots.</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="1024" src="https://mdshanewaz.github.io/WordPress_Proj-8/wp-content/uploads/2021/02/Jim-Fahad-Digital-1blog-post-22-1024x1024.jpg" alt="" class="wp-image-83" srcset="https://mdshanewaz.github.io/WordPress_Proj-8/wp-content/uploads/2021/02/Jim-Fahad-Digital-1blog-post-22-1024x1024.jpg 1024w, https://mdshanewaz.github.io/WordPress_Proj-8/wp-content/uploads/2021/02/Jim-Fahad-Digital-1blog-post-22-300x300.jpg 300w, https://mdshanewaz.github.io/WordPress_Proj-8/wp-content/uploads/2021/02/Jim-Fahad-Digital-1blog-post-22-150x150.jpg 150w, https://mdshanewaz.github.io/WordPress_Proj-8/wp-content/uploads/2021/02/Jim-Fahad-Digital-1blog-post-22-768x768.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>Today’s announcement sees the release of the new Cork GAA jersey, designed and manufactured in collaboration with O’Neills.</p>
-
-
-
-<p>The jersey celebrates the three core pillars of clubs, schools, and county that together form the foundation of Cork GAA.</p>
-
-
-
-<p>It’s a new era and a new look for Cork GAA from today as Sports Direct becomes the official sponsor as part of a five-year partnership.</p>
-
-
-
-<p>The sports fashion retailer’s logo will be seen on men’s senior football and hurling teams as well as the Minor and Under 20 teams in both codes.</p>
-
-
-
-<p>As part of its partnership with Cork GAA, Sports Direct will be providing the two senior panels with personalized access to its full range of boots.</p>
-
-
-
-<p>Today’s announcement sees the release of the new Cork GAA jersey, designed and manufactured in collaboration with O’Neills.</p>
-
-
-
-<p>The jersey celebrates the three core pillars of clubs, schools, and county that together form the foundation of Cork GAA</p>
+<p>As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://mdshanewaz.github.io/WordPress_Proj-8/fourth-post/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mdshanewaz.github.io/WordPress_Proj-8/photography/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>First Post</title>
-		<link>https://mdshanewaz.github.io/WordPress_Proj-8/first-post/</link>
-					<comments>https://mdshanewaz.github.io/WordPress_Proj-8/first-post/#respond</comments>
+		<title>Web Design</title>
+		<link>https://mdshanewaz.github.io/WordPress_Proj-8/web-design/</link>
+					<comments>https://mdshanewaz.github.io/WordPress_Proj-8/web-design/#respond</comments>
 		
 		<dc:creator><![CDATA[newaz]]></dc:creator>
-		<pubDate>Tue, 19 Jan 2021 11:04:38 +0000</pubDate>
+		<pubDate>Sat, 06 Mar 2021 07:10:51 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj-8/?p=27</guid>
+		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj-8/?p=55</guid>
 
-					<description><![CDATA[’s a new era and a new look for Cork GAA from today as Sports Direct becomes the official sponsor as part of a five-year partnership. The sports fashion retailer’s logo will be seen on men’s senior football and hurling teams as well as the Minor and Under 20 teams in both codes. As part [&#8230;]]]></description>
+					<description><![CDATA[As you can see from the above image, a Data Analyst&#160;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>’s a new era and a new look for Cork GAA from today as Sports Direct becomes the official sponsor as part of a five-year partnership.</p>
-
-
-
-<p>The sports fashion retailer’s logo will be seen on men’s senior football and hurling teams as well as the Minor and Under 20 teams in both codes.</p>
-
-
-
-<p>As part of its partnership with Cork GAA, Sports Direct will be providing the two senior panels with personalized access to its full range of boots.</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="1024" src="https://mdshanewaz.github.io/WordPress_Proj-8/wp-content/uploads/2021/02/Jim-Fahad-Digital-1blog-post-02-1024x1024.jpg" alt="" class="wp-image-70" srcset="https://mdshanewaz.github.io/WordPress_Proj-8/wp-content/uploads/2021/02/Jim-Fahad-Digital-1blog-post-02-1024x1024.jpg 1024w, https://mdshanewaz.github.io/WordPress_Proj-8/wp-content/uploads/2021/02/Jim-Fahad-Digital-1blog-post-02-300x300.jpg 300w, https://mdshanewaz.github.io/WordPress_Proj-8/wp-content/uploads/2021/02/Jim-Fahad-Digital-1blog-post-02-150x150.jpg 150w, https://mdshanewaz.github.io/WordPress_Proj-8/wp-content/uploads/2021/02/Jim-Fahad-Digital-1blog-post-02-768x768.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>Today’s announcement sees the release of the new Cork GAA jersey, designed and manufactured in collaboration with O’Neills.</p>
-
-
-
-<p>The jersey celebrates the three core pillars of clubs, schools, and county that together form the foundation of Cork GAA.</p>
-
-
-
-<p>It’s a new era and a new look for Cork GAA from today as Sports Direct becomes the official sponsor as part of a five-year partnership.</p>
-
-
-
-<p>The sports fashion retailer’s logo will be seen on men’s senior football and hurling teams as well as the Minor and Under 20 teams in both codes.</p>
-
-
-
-<p>As part of its partnership with Cork GAA, Sports Direct will be providing the two senior panels with personalized access to its full range of boots.</p>
-
-
-
-<p>Today’s announcement sees the release of the new Cork GAA jersey, designed and manufactured in collaboration with O’Neills.</p>
-
-
-
-<p>The jersey celebrates the three core pillars of clubs, schools, and county that together form the foundation of Cork GAA</p>
+<p>As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://mdshanewaz.github.io/WordPress_Proj-8/first-post/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mdshanewaz.github.io/WordPress_Proj-8/web-design/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>Second Post</title>
-		<link>https://mdshanewaz.github.io/WordPress_Proj-8/second-post/</link>
-					<comments>https://mdshanewaz.github.io/WordPress_Proj-8/second-post/#respond</comments>
+		<title>Data Science</title>
+		<link>https://mdshanewaz.github.io/WordPress_Proj-8/data-science/</link>
+					<comments>https://mdshanewaz.github.io/WordPress_Proj-8/data-science/#respond</comments>
 		
 		<dc:creator><![CDATA[newaz]]></dc:creator>
-		<pubDate>Sat, 26 Dec 2020 11:05:33 +0000</pubDate>
+		<pubDate>Sat, 06 Mar 2021 07:09:55 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj-8/?p=89</guid>
+		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj-8/?p=52</guid>
 
-					<description><![CDATA[’s a new era and a new look for Cork GAA from today as Sports Direct becomes the official sponsor as part of a five-year partnership. The sports fashion retailer’s logo will be seen on men’s senior football and hurling teams as well as the Minor and Under 20 teams in both codes. As part [&#8230;]]]></description>
+					<description><![CDATA[As you can see from the above image, a Data Analyst&#160;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>’s a new era and a new look for Cork GAA from today as Sports Direct becomes the official sponsor as part of a five-year partnership.</p>
-
-
-
-<p>The sports fashion retailer’s logo will be seen on men’s senior football and hurling teams as well as the Minor and Under 20 teams in both codes.</p>
-
-
-
-<p>As part of its partnership with Cork GAA, Sports Direct will be providing the two senior panels with personalized access to its full range of boots.</p>
-
-
-
-<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="1024" src="https://mdshanewaz.github.io/WordPress_Proj-8/wp-content/uploads/2021/02/Jim-Fahad-Digital-1blog-post-03-1024x1024.jpg" alt="" class="wp-image-71" srcset="https://mdshanewaz.github.io/WordPress_Proj-8/wp-content/uploads/2021/02/Jim-Fahad-Digital-1blog-post-03-1024x1024.jpg 1024w, https://mdshanewaz.github.io/WordPress_Proj-8/wp-content/uploads/2021/02/Jim-Fahad-Digital-1blog-post-03-300x300.jpg 300w, https://mdshanewaz.github.io/WordPress_Proj-8/wp-content/uploads/2021/02/Jim-Fahad-Digital-1blog-post-03-150x150.jpg 150w, https://mdshanewaz.github.io/WordPress_Proj-8/wp-content/uploads/2021/02/Jim-Fahad-Digital-1blog-post-03-768x768.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<p>Today’s announcement sees the release of the new Cork GAA jersey, designed and manufactured in collaboration with O’Neills.</p>
-
-
-
-<p>The jersey celebrates the three core pillars of clubs, schools, and county that together form the foundation of Cork GAA.</p>
-
-
-
-<p>It’s a new era and a new look for Cork GAA from today as Sports Direct becomes the official sponsor as part of a five-year partnership.</p>
-
-
-
-<p>The sports fashion retailer’s logo will be seen on men’s senior football and hurling teams as well as the Minor and Under 20 teams in both codes.</p>
-
-
-
-<p>As part of its partnership with Cork GAA, Sports Direct will be providing the two senior panels with personalized access to its full range of boots.</p>
-
-
-
-<p>Today’s announcement sees the release of the new Cork GAA jersey, designed and manufactured in collaboration with O’Neills.</p>
-
-
-
-<p>The jersey celebrates the three core pillars of clubs, schools, and county that together form the foundation of Cork GAA</p>
+<p>As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://mdshanewaz.github.io/WordPress_Proj-8/second-post/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mdshanewaz.github.io/WordPress_Proj-8/data-science/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ecommerce</title>
+		<link>https://mdshanewaz.github.io/WordPress_Proj-8/ecommerce/</link>
+					<comments>https://mdshanewaz.github.io/WordPress_Proj-8/ecommerce/#respond</comments>
+		
+		<dc:creator><![CDATA[newaz]]></dc:creator>
+		<pubDate>Sat, 06 Mar 2021 07:08:48 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://mdshanewaz.github.io/WordPress_Proj-8/?p=49</guid>
+
+					<description><![CDATA[As you can see from the above image, a Data Analyst&#160;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.As you can see from the above image, a Data Analyst&nbsp;usually explains what is going on by processing history of the data. On the other hand, Data Scientist not only does the exploratory analysis to discover insights from it, but also uses various advanced machine learning algorithms to identify the occurrence of a particular event in the future. A Data Scientist will look at the data from many angles, sometimes angles not known earlier.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://mdshanewaz.github.io/WordPress_Proj-8/ecommerce/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

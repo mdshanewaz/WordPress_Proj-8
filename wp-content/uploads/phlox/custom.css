@@ -33,7 +33,7 @@
 .site-header-section .aux-middle .aux-menu-depth-0 > .aux-item-content { height:60px; }
 /* site-mobile-header-toggle-button-color 
 =========================*/
-.site-header-section .aux-header .aux-burger:before, .site-header-section .aux-header .aux-burger:after, .site-header-section .aux-header .aux-burger .mid-line { border-color:rgb(230, 118, 24); }
+.site-header-section .aux-header .aux-burger:before, .site-header-section .aux-header .aux-burger:after, .site-header-section .aux-header .aux-burger .mid-line { border-color:rgb(251, 78, 0); }
 /* site-menu-full-screen-background-color 
 =========================*/
 #fs-menu-search:before { background-color:rgba(255, 255, 255, 0.95); }
@@ -49,12 +49,6 @@
 /* page-title-bar-overlay-pattern-opacity 
 =========================*/
 .page .aux-overlay-bg-hash::before { opacity:0.5; }
-/* subfooter-bar-layout-bg-color 
-=========================*/
-.aux-subfooter-bar { background-color:#fafafa; }
-/* subfooter-bar-top-border-color 
-=========================*/
-.aux-subfooter-bar { border-top:1px solid #EAEAEA; }
 /* subfooter-layout-bg-image-position 
 =========================*/
 .aux-subfooter {background-position:center center;}
@@ -66,43 +60,44 @@
 .aux-subfooter {background-repeat:no-repeat;}
 /* subfooter-top-border-color 
 =========================*/
-.aux-subfooter { border-top:1px solid #EAEAEA; }
+.aux-subfooter { border-top:1px solid rgb(147, 142, 142); }
 /* site-footer-bg-color 
 =========================*/
 .aux-site-footer {background-color:#1A1A1A;}
+/* footer-top-border-color 
+=========================*/
+.aux-site-footer {border-top:1px solid rgb(5, 5, 5);}
+/* footer-top-border-width 
+=========================*/
+.aux-site-footer { border-top-width:1px; }
 /* site-secondary-logo-max-height 
 =========================*/
 .aux-logo-footer .aux-logo-anchor img { max-height:50px; }
 /* subfooter-layout-bg-color 
 =========================*/
-.aux-subfooter { background-color:rgb(43, 41, 41); }
-/* socials-brand-color-custom 
-=========================*/
-.aux-top-header .aux-social-list a { color:rgb(230, 118, 24); }
+.aux-subfooter { background-color:rgb(117, 116, 116); }
 /* subfooter-widget-title-typography 
 =========================*/
-.aux-subfooter .aux-widget-area .widget-title{ color:rgb(243, 238, 238); } 
+.aux-subfooter .aux-widget-area .widget-title{ font-family:'Poppins'; color:rgb(253, 247, 247); } 
 /* subfooter-widget-text-typography 
 =========================*/
-.aux-subfooter .aux-widget-area p{ color:rgb(255, 255, 255); } 
+.aux-subfooter .aux-widget-area p{ font-family:'Poppins'; color:rgb(250, 250, 250); } 
 /* subfooter-widget-link-typography 
 =========================*/
-.aux-subfooter .aux-widget-area a{ color:rgb(254, 250, 250); } 
-.aux-subfooter .aux-widget-area a:hover{ color:rgb(230, 118, 24); } 
-/* footer-top-border-color 
+.aux-subfooter .aux-widget-area a{ font-family:'Poppins'; color:rgb(249, 249, 249); } 
+.aux-subfooter .aux-widget-area a:hover{ color:rgb(251, 78, 0); } 
+/* footer-copyright-typography 
 =========================*/
-.aux-site-footer {border-top:1px solid rgb(0, 0, 0);}
-/* footer-main-menu-typography 
-=========================*/
-.aux-site-footer .footer-menu li > a:hover{ font-family:'Poppins'; color:rgb(230, 118, 24); } 
+.aux-copyright{ font-family:'Poppins'; } 
 /* header-main-menu-typography 
 =========================*/
-.site-header-section .aux-menu-depth-0 > .aux-item-content .aux-menu-label{ font-family:'Poppins'; font-weight:500; } 
-.site-header-section .aux-menu-depth-0 > .aux-item-content .aux-menu-label:hover{ font-family:'Poppins'; color:rgb(230, 118, 24); } 
+.site-header-section .aux-menu-depth-0 > .aux-item-content .aux-menu-label{ font-family:'Poppins'; font-size:15px; font-weight:700; } 
+.site-header-section .aux-menu-depth-0 > .aux-item-content .aux-menu-label:hover{ color:rgb(251, 78, 0); } 
 /* header-menu-active-item-typography 
 =========================*/
-.site-header-section .aux-menu-depth-0.current-menu-item > .aux-item-content .aux-menu-label{ color:rgb(230, 118, 24); } 
-.site-header-section .aux-menu-depth-0.current-menu-item > .aux-item-content .aux-menu-label:hover{ color:rgb(230, 118, 24); } 
-/* topheader-message-typography 
+.site-header-section .aux-menu-depth-0.current-menu-item > .aux-item-content .aux-menu-label{ font-family:'Poppins'; color:rgb(251, 78, 0); } 
+.site-header-section .aux-menu-depth-0.current-menu-item > .aux-item-content .aux-menu-label:hover{ font-family:'Poppins'; color:rgb(251, 78, 0); } 
+/* header-submenu-typography 
 =========================*/
-.aux-top-header .aux-header-msg p{ font-family:'Poppins'; color:rgb(0, 0, 0); } 
+.site-header-section .aux-submenu > .aux-menu-item > .aux-item-content > .aux-menu-label{ font-family:'Poppins'; } 
+.site-header-section .aux-submenu > .aux-menu-item > .aux-item-content > .aux-menu-label:hover{ color:rgb(251, 78, 0); } 
